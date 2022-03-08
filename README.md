@@ -4,7 +4,7 @@
   <img src="https://github.com/faintsign/faintsign/blob/main/images/34347487g.png" height = 400>
 </p
 
-◦ Name: Faint\
+◦ Name: <p>style=color:white Faint\>/p>
 ◦ Studying <strong>Computer Science</strong>\
 ◦ Java and C++ programmer\
 ◦ Interests: Anime, games, coding, low level programming
