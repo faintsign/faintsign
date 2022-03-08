@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://c.tenor.com/OP1bGPSk940AAAAC/anime-i-will-hack-into-your-heart.gif" width="350" title="hover text">
+  <img src="https://c.tenor.com/OP1bGPSk940AAAAC/anime-i-will-hack-into-your-heart.gif" title="hover text">
 </p>
 
 ◦ Name: Faint\
