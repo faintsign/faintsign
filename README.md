@@ -1,5 +1,5 @@
 
-<img src="https://github.com/faintsign/faintsign/blob/main/images/1637702131283.png height=400">
+<img src="https://github.com/faintsign/faintsign/blob/main/images/1637702131283.png">
 
 ◦ Name: Faint\
 ◦ Studying <strong>Computer Science</strong>\
