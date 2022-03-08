@@ -9,7 +9,9 @@
 ◦ Java and C++ programmer\
 ◦ Interests: Anime, games, coding, linux
 
-\
+
+
+
 <p align=center>
   <img src="https://github.com/faintsign/faintsign/blob/main/images/d34rk5f-9de037ed-3282-4d95-bc4c-30abb2fed13e.jpg">
 </p>
