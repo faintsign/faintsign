@@ -1,5 +1,5 @@
 
-<img src="https://c.tenor.com/OP1bGPSk940AAAAC/anime-i-will-hack-into-your-heart.gif" width=400 title="hover text">
+<img src="https://github.com/faintsign/faintsign/blob/main/images/1637702131283.png">
 
 ◦ Name: Faint\
 ◦ Studying <strong>Computer Science</strong>\
