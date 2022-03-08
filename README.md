@@ -1,4 +1,6 @@
-<img>src="https://c.tenor.com/OP1bGPSk940AAAAC/anime-i-will-hack-into-your-heart.gif"</img>\
+<p align="center">
+  <img src="https://c.tenor.com/OP1bGPSk940AAAAC/anime-i-will-hack-into-your-heart.gif" width="350" title="hover text">
+</p>
 
 ◦ Name: Faint\
 ◦ Studying <strong>Computer Science</strong>\
