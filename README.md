@@ -6,7 +6,7 @@
 
 ◦ Name: Faint\
 ◦ Studying <strong>Computer Science</strong>\
-◦ Java and C++ programmer\
+◦ Java and C programmer
 ◦ Interests: Anime, games, coding, linux
 
 <!---
