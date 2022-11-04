@@ -6,10 +6,8 @@
   <h3> Hey, you can call me Faint!</h3>
 </p
 
-◦ Name: Faint\
-◦ Studying <strong>Computer Science</strong>\
-◦ Java and C programmer
-◦ Interests: Anime, games, coding, linux
+I'm a programmer who is interested in open source projects, linux system administration, low-level programming, competitive programming, and making my own projects. \
+
 
 <!---
 faintsign/faintsign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
