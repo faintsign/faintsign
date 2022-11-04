@@ -12,7 +12,7 @@ I tend to find myself more interested in more of the lower spectrum of programmi
 Most of the programming I'm currently doing is in Java and C, but I can code in Python and C# if needed. Below you will find a list of my technologies I use and what I'm up to. Thanks for visiting!
 
 <p align=center>
-  <img src="https://media.moddb.com/cache/images/groups/1/1/84/thumb_620x2000/Kami-sama_no_Memo-chou_7.png" height=400 width=400>
+  <img src="https://media.moddb.com/cache/images/groups/1/1/84/thumb_620x2000/Kami-sama_no_Memo-chou_7.png">
 </p
 
 <h3> Technolgies I use</h3>
