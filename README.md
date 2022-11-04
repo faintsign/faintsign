@@ -16,6 +16,9 @@ Most of the programming I'm currently doing is in Java and C, but I can code in 
   <h3> Technolgies I use</h3>
 </p
 
+* OS: Arch, Manjaro, Windows, Android
+* Text Editor: NeoVim
+* Programming languages: C, C#, Java, Python
 
 <!---
 faintsign/faintsign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
