@@ -13,9 +13,8 @@ Most of the programming I'm currently doing is in Java and C, but I can code in 
 
 <p align=center>
   <img src="https://media.moddb.com/cache/images/groups/1/1/84/thumb_620x2000/Kami-sama_no_Memo-chou_7.png">
+  <h3> Technolgies I use</h3>
 </p
-
-<h3> Technolgies I use</h3>
 
 
 <!---
