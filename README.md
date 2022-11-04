@@ -2,8 +2,10 @@
 <p align=left>
   <img src="https://github.com/faintsign/faintsign/blob/main/images/1637702131283.png" height=400 width=400 text="uwu">
   <img src="https://github.com/faintsign/faintsign/blob/main/images/34347487g.png" height = 400>
+  
+  <h1> Hey, you can call me Faint!</h1>
 </p
-<h1> Hey, you can call me Faint!</h1>\
+
 ◦ Name: Faint\
 ◦ Studying <strong>Computer Science</strong>\
 ◦ Java and C programmer
